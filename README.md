@@ -12,6 +12,7 @@
 I'm an **Experienced Data and Design Engineer** with over 7 years of expertise in building robust, high-performance cloud architectures. Currently at **BT**, I specialize in designing scalable and secure data solutions on **Google Cloud**, leveraging advanced tools like **BigQuery**, **Spark**, and **Generative AI (Gemini)** to drive business value. I am a recertified **Google Cloud Professional Cloud Architect** and a **BT Group Data & AI Hackathon Winner**, passionate about bridging the gap between deep hardware optimization and elite cloud automation.
 
 ### 💼 What I'm currently working on:
+- 🎵 **[spotify-ytmusic-sync](https://github.com/rajnish8987/spotify-ytmusic-sync)**: (Featured) A production-grade web application synchronizing Spotify playlists to YouTube Music with real-time progress, parallel execution, and crash-resume.
 - 💻 **[LaptopCloner](https://github.com/rajnish8987/LaptopCloner)**: A dual-mode Python web application utilizing native Windows APIs (Robocopy, Winget) to seamlessly back up and incrementally migrate entire digital environments.
 - 🏗️ **[GCP-Data-Engineering](https://github.com/rajnish8987/GCP-Data-Engineering)**: (Featured) A 35-day architectural leadership program and 14-part elite suite covering Cloud Infrastructure, Big Data, and AI Strategy.
 - 🎮 **[LaptopGameAdvisor](https://github.com/rajnish8987/LaptopGameAdvisor)**: A smart, multi-source game library and deep hardware-telemetry aggregator for local GPU/CPU profiling.
